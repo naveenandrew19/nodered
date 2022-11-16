@@ -1,0 +1,5 @@
+editorTheme: {
+       projects: {
+           enabled: true
+       }
+   }
